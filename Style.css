@@ -1,0 +1,20 @@
+p.pertama {
+    background-color: orange;
+}
+
+p.kedua {
+    background-color: blue;
+    color: white;
+}
+
+p.tiga {
+    font-family: monospace;
+    font-size: 1.75em;
+    border: solid black 0.5px;
+}
+
+p.empat {
+    background-color: gray;
+    font-weight: bold;
+    font-size: 1.5em;
+}
